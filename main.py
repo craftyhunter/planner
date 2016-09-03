@@ -66,7 +66,7 @@ p.append(r'.*(?:\n.*)*(?:Уважаемый клиент|Ваша заявка|�
 # b = a['body']
 # matched = False
 # for aa in range(len(p)):
-#    m = re.match(p[aa],b) 
+#    m = re.match(p[aa],b)
 #   if m:
 #     p1[aa] += 1
 #     matched = True
